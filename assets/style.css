@@ -22,7 +22,7 @@ body {
 	font-size: 26px;
 }
 
-.nav ul {
+.nav ol {
 	display: flex;
 	list-style-type: none;
 	font-size: 14px;
@@ -102,7 +102,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #525252;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
